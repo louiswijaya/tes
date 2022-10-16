@@ -1,1 +1,0 @@
-maaf pak kemampuan saya hanya sebatas ini soalnya banyak yang tidak saya pelajari dari kampus
