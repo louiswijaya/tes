@@ -1,1 +1,1 @@
-# maaf pak kemampuanku hana sebatas ini
+# maaf pak kemampuanku hanya sebatas ini
