@@ -1,0 +1,9 @@
+D:\Project\test\test\bin\Debug\netcoreapp1.1\tes1.deps.json
+D:\Project\test\test\bin\Debug\netcoreapp1.1\tes1.runtimeconfig.json
+D:\Project\test\test\bin\Debug\netcoreapp1.1\tes1.runtimeconfig.dev.json
+D:\Project\test\test\bin\Debug\netcoreapp1.1\tes1.dll
+D:\Project\test\test\bin\Debug\netcoreapp1.1\tes1.pdb
+D:\Project\test\test\obj\Debug\netcoreapp1.1\tes1.csprojResolveAssemblyReference.cache
+D:\Project\test\test\obj\Debug\netcoreapp1.1\tes1.AssemblyInfo.cs
+D:\Project\test\test\obj\Debug\netcoreapp1.1\tes1.dll
+D:\Project\test\test\obj\Debug\netcoreapp1.1\tes1.pdb

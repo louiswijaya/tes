@@ -1,0 +1,6 @@
+D:\Project\test\tes2\bin\Debug\tes2.exe.config
+D:\Project\test\tes2\bin\Debug\tes2.exe
+D:\Project\test\tes2\bin\Debug\tes2.pdb
+D:\Project\test\tes2\obj\Debug\tes2.csprojResolveAssemblyReference.cache
+D:\Project\test\tes2\obj\Debug\tes2.exe
+D:\Project\test\tes2\obj\Debug\tes2.pdb

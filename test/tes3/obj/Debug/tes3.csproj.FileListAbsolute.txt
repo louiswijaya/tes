@@ -1,0 +1,5 @@
+D:\Project\test\tes3\bin\Debug\tes3.exe.config
+D:\Project\test\tes3\bin\Debug\tes3.exe
+D:\Project\test\tes3\bin\Debug\tes3.pdb
+D:\Project\test\tes3\obj\Debug\tes3.exe
+D:\Project\test\tes3\obj\Debug\tes3.pdb
